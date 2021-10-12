@@ -1,0 +1,16 @@
+D:\Project\ATEapp-master\bin\Debug\net5.0\ATEapp.exe
+D:\Project\ATEapp-master\bin\Debug\net5.0\ATEapp.deps.json
+D:\Project\ATEapp-master\bin\Debug\net5.0\ATEapp.runtimeconfig.json
+D:\Project\ATEapp-master\bin\Debug\net5.0\ATEapp.runtimeconfig.dev.json
+D:\Project\ATEapp-master\bin\Debug\net5.0\ATEapp.dll
+D:\Project\ATEapp-master\bin\Debug\net5.0\ref\ATEapp.dll
+D:\Project\ATEapp-master\bin\Debug\net5.0\ATEapp.pdb
+D:\Project\ATEapp-master\obj\Debug\net5.0\ATEapp.csprojAssemblyReference.cache
+D:\Project\ATEapp-master\obj\Debug\net5.0\ATEapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ATEapp-master\obj\Debug\net5.0\ATEapp.AssemblyInfoInputs.cache
+D:\Project\ATEapp-master\obj\Debug\net5.0\ATEapp.AssemblyInfo.cs
+D:\Project\ATEapp-master\obj\Debug\net5.0\ATEapp.csproj.CoreCompileInputs.cache
+D:\Project\ATEapp-master\obj\Debug\net5.0\ATEapp.dll
+D:\Project\ATEapp-master\obj\Debug\net5.0\ref\ATEapp.dll
+D:\Project\ATEapp-master\obj\Debug\net5.0\ATEapp.pdb
+D:\Project\ATEapp-master\obj\Debug\net5.0\ATEapp.genruntimeconfig.cache
